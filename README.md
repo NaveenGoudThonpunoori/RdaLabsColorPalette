@@ -24,7 +24,7 @@
 
 * Once you open the app on browser you will be redirected to home page
 
-* Just Enter any name so that you will be redirected to the page where you can fills the boxes with colors you pick from the color palatte
+* Enter any name on the home page so that you will be redirected to the page where you can fills the boxes with colors you pick from the color palatte
 
 * Clicking on the home will redirect to the home page again
 
