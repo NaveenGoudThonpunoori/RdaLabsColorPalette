@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  color: MyString
+  user_id: valid
+  position: 1
+
+two:
+  color: MyString
+  user_id: valid
+  position: 2

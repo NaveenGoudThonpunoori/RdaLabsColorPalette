@@ -1,0 +1,4 @@
+= form_tag("/home", method: "post") do
+  = label_tag(:user_name, "Enter User Name:")
+  = text_field_tag(:user_name)
+  = submit_tag("submit")

@@ -1,0 +1,18 @@
+%h3
+  Leader Boards
+%table{}
+  %tr
+    %th
+      Name
+    %th
+      Number of Colors Placed
+    %th
+      Most Used Color
+  - @users.each do |user|
+    %tr
+      %td
+        = user.name
+      %td
+        = user.color_count
+      %td{ style: "background-color: #{most_used(user.id)}"}
+        = ""
