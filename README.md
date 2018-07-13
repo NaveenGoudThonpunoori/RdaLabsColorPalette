@@ -28,5 +28,5 @@
 
 * Clicking on the home will redirect to the home page again
 
-* If you want to access the existing user's color palette page enter the name you already used on the home page 
+* If you want to access the existing user's color palette page, enter the name you already used before 
 
