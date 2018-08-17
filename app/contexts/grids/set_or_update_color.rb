@@ -16,6 +16,8 @@ class Grids::SetOrUpdateColor
   end
 
   def assign_columns
+    
+    
     grid.user_id = params[:user_id]
     grid.position = params[:position]
     grid.color = params[:color]
